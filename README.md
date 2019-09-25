@@ -5,4 +5,6 @@
 欢迎 watch 这个仓库或者订阅相应的公众号和我交流
 
 
-![](https://raw.githubusercontent.com/timqian/images/master/20190925152202.jpg)
+<p align="center">
+  <img width="200" src="https://raw.githubusercontent.com/timqian/images/master/20190925152202.jpg">
+</p>
