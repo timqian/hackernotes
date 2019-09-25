@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/timqian/images/master/20190925153619.png)
+[![](https://raw.githubusercontent.com/timqian/images/master/20190925153619.png)](https://github.com/timqian/hackernews-daily/issues)
 
 这个仓库的 [issue](https://github.com/timqian/hackernews-daily/issues) 里记录了我每天在 [hackernews](https://news.ycombinator.com/) 冲浪时所看到的有趣/有用的信息和一些思考.
 
